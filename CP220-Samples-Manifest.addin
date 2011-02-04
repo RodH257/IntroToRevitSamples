@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Assembly>C:\AU-Classes\Code\CP220-2_Samples\CP220-2_Samples_CSharp\bin\Debug\CP220-2_Samples_CSharp.dll</Assembly>
+    <AddInId>ff177931-a04b-4455-be82-173a0eb15c46</AddInId>
+    <FullClassName>CP220_2.Samples.CSharp.HelloWorld</FullClassName>
+    <Text>CP220-2 Hello World Sample</Text>
+  </AddIn>
+  
+  <AddIn Type="Command">
+    <Assembly>C:\AU-Classes\Code\CP220-2_Samples\CP220-2_Samples_CSharp\bin\Debug\CP220-2_Samples_CSharp.dll</Assembly>
+    <AddInId>f36f89ed-4f09-468b-82d1-07424d5fbd5d</AddInId>
+    <FullClassName>CP220_2.Samples.CSharp.ModifyingParameters</FullClassName>
+    <Text>CP220-2 Modifying Parameters Sample</Text>
+  </AddIn>
+  
+  <AddIn Type="Command">
+    <Assembly>C:\AU-Classes\Code\CP220-2_Samples\CP220-2_Samples_CSharp\bin\Debug\CP220-2_Samples_CSharp.dll</Assembly>
+    <AddInId>f117d540-7b46-4d30-842a-c2a3ab4746eb</AddInId>
+    <FullClassName>CP220_2.Samples.CSharp.UserInteraction</FullClassName>
+    <Text>CP220-2 User Interaction Sample</Text>
+  </AddIn>
+  
+    <AddIn Type="Command">
+    <Assembly>C:\AU-Classes\Code\CP220-2_Samples\CP220-2.Samples.VB\bin\Debug\CP220-2.Samples.VB.dll</Assembly>
+    <AddInId>8b747c3a-ccc2-481b-ab66-f1ad8be5a0c5</AddInId>
+    <FullClassName>CP220_2.Samples.VB.HelloWorld</FullClassName>
+    <Text>CP220-2 Hello World Sample (VB)</Text>
+  </AddIn>
+  
+  <AddIn Type="Command">
+    <Assembly>C:\AU-Classes\Code\CP220-2_Samples\CP220-2.Samples.VB\bin\Debug\CP220-2.Samples.VB.dll</Assembly>
+    <AddInId>06cf67f6-fc65-48cb-b072-0bf940af1656</AddInId>
+    <FullClassName>CP220_2.Samples.VB.ModifyingParameters</FullClassName>
+    <Text>CP220-2 Modifying Parameters Sample (VB)</Text>
+  </AddIn>
+  
+  <AddIn Type="Command">
+    <Assembly>C:\AU-Classes\Code\CP220-2_Samples\CP220-2.Samples.VB\bin\Debug\CP220-2.Samples.VB.dll</Assembly>
+    <AddInId>1c791719-6b79-4c20-b2ed-84ccec644734</AddInId>
+    <FullClassName>CP220_2.Samples.VB.UserInteraction</FullClassName>
+    <Text>CP220-2 User Interaction Sample (VB)</Text>
+  </AddIn>
+  
+</RevitAddIns>
